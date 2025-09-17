@@ -39,9 +39,9 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
         "file" => $file_name,
     ];
     if ($video !== null) {
-        $obj["link"] = "https://cacna2023.kashanu.ac.ir/newvideos/" . $file_name;
+        $obj["link"] = "https://cacna2025.kashanu.ac.ir/newvideos/" . $file_name;
     } else if ($poster !== null) {
-        $obj["link"] = "https://cacna2023.kashanu.ac.ir/newposters/" . $file_name;
+        $obj["link"] = "https://cacna2025.kashanu.ac.ir/newposters/" . $file_name;
     }
     $obj["video"] = $video;
     $obj["poster"] = $poster;

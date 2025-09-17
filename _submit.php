@@ -22,7 +22,7 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
     }
 
     $to = [
-        "cacna2023@kashanu.ac.ir",
+        "cacna2025@kashanu.ac.ir",
         "alim@kashanu.ac.ir",
         // "98@hi2.in",
         "maxbasecode@gmail.com",
@@ -44,8 +44,8 @@ if (isset($_POST["submit"], $_POST["title"], $_POST["title_en"], $_POST["author"
     ];
 
     if (isset($file_name)) {
-        $message .= "فایل لاتک مقاله: https://cacna2023.kashanu.ac.ir/papers/$file_name";
-        $obj["file"] = "https://cacna2023.kashanu.ac.ir/papers/" . $file_name;
+        $message .= "فایل لاتک مقاله: https://cacna2025.kashanu.ac.ir/papers/$file_name";
+        $obj["file"] = "https://cacna2025.kashanu.ac.ir/papers/" . $file_name;
     }
     
     // Write and create utf8 file

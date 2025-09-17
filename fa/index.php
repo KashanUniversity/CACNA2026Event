@@ -70,25 +70,25 @@ $is_home = true;
             <h3>دانلود نمونه فایل ارائه مقاله‌ها</h3>
             <p>
             <font color="blue">
-                    <a href="/cacna2023-talk-fa.pptx">
+                    <a href="/cacna2025-talk-fa.pptx">
                         دانلود نمونه فایل پاورپوینت سخنرانی فارسی
                     </a>
                 </font>
                 <br>
                 <font color="blue">
-                    <a href="/cacna2023-talk-en.pptx">
+                    <a href="/cacna2025-talk-en.pptx">
                         دانلود نمونه فایل پاورپوینت سخنرانی انگلیسی
                     </a>
                 </font>
                 <br>
                 <font color="blue">
-                    <a href="/cacna2023-poster-fa.pptx">
+                    <a href="/cacna2025-poster-fa.pptx">
                         دانلود نمونه فایل پاورپوینت پوستر فارسی
                     </a>
                 </font>
                 <br>
                 <font color="blue">
-                    <a href="/cacna2023-poster-en.pptx">
+                    <a href="/cacna2025-poster-en.pptx">
                         دانلود نمونه فایل پاورپوینت پوستر انگلیسی
                     </a>
                 </font>
@@ -144,13 +144,13 @@ $is_home = true;
             <h2>زمان‌بندی همایش</h2>
 
             <b>
-                <a href="/cacna2023-fa.zip">
+                <a href="/cacna2025-fa.zip">
                     جهت دانلود فایل تمپلیت فارسی مقالات اینجا را لمس کنید.
                 </a>
             </b>
             <br>
             <b>
-                <a href="/cacna2023-en.zip">
+                <a href="/cacna2025-en.zip">
                     جهت دانلود فایل تمپلیت انگلیسی مقالات اینجا را لمس کنید.
                 </a>
             </b>
