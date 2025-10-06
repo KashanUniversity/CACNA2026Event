@@ -21,7 +21,7 @@ require "../_submit.php";
 
             <?php if (isset($sent)) { ?>
                 <font color="green">
-                    از ارسال چکیده/مقاله خود متشکریم. فقط برای اطمینان لطفا مقاله خود را دوباره به آدرس ایمیل ما در <a href="mailto:cacna2025@kashanu.ac.ir">cacna2025@kashanu.ac.ir</a> ارسال کنید.
+                    از ارسال چکیده/مقاله خود متشکریم. فقط برای اطمینان لطفا مقاله خود را دوباره به آدرس ایمیل ما در <a href="mailto:cacna2026@kashanu.ac.ir">cacna2026@kashanu.ac.ir</a> ارسال کنید.
                 </font>
             <?php } ?>
 
@@ -59,7 +59,7 @@ require "../_submit.php";
                 </form>
 
                 <div class="note">
-                    در صورتی که هر گونه سوالی دارید می توانید با دبیرخانه همایش از طریق نشانی ایمیل <a href="mailto:cacna2025@kashanu.ac.ir">cacna2025@kashanu.ac.ir</a> تماس حاصل فرمایید.
+                    در صورتی که هر گونه سوالی دارید می توانید با دبیرخانه همایش از طریق نشانی ایمیل <a href="mailto:cacna2026@kashanu.ac.ir">cacna2026@kashanu.ac.ir</a> تماس حاصل فرمایید.
                 </div>
             </p>
         </section>

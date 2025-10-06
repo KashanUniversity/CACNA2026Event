@@ -94,8 +94,8 @@
                     <span>
                         Email:
                         <small>
-                            <a href="mailto:cacna2025@kashanu.ac.ir">
-                                cacna2025@kashanu.ac.ir
+                            <a href="mailto:cacna2026@kashanu.ac.ir">
+                                cacna2026@kashanu.ac.ir
                             </a>
                         </small>
                     </span>
@@ -104,5 +104,5 @@
         </div>
     </div>
     <hr>
-    © 2025 Design by <a href="https://asrez.com/">Asrez co</a>, All right reserved to University of Kashan.
+    © 2026 Design by <a href="https://asrez.com/">Asrez co</a>, All right reserved to University of Kashan.
 </footer>

@@ -94,8 +94,8 @@
                     <span>
                         آدرس الکترونیک همایش:
                         <small>
-                            <a href="mailto:cacna2025@kashanu.ac.ir">
-                                cacna2025@kashanu.ac.ir
+                            <a href="mailto:cacna2026@kashanu.ac.ir">
+                                cacna2026@kashanu.ac.ir
                             </a>
                         </small>
                     </span>
