@@ -21,7 +21,7 @@ $en = true;
             <h2>Registration</h2>
 
             <p>
-                If you are going to participate in the conference or give a talk, please contact the scientific committee of the conference on <b><a href="mailto:cacna2025@kashanu.ac.ir">cacna2025@kashanu.ac.ir</a></b> email address.
+                If you are going to participate in the conference or give a talk, please contact the scientific committee of the conference on <b><a href="mailto:cacna2026@kashanu.ac.ir">cacna2026@kashanu.ac.ir</a></b> email address.
                 <br>
 
                 For registration, please send your information in the following format to the email address above:

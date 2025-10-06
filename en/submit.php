@@ -22,7 +22,7 @@ require "../_submit.php";
 
             <?php if (isset($sent)) { ?>
                 <font color="green">
-                    Thank you for submitting your abstract/article. Just to make sure please resend your paper to our email address at <a href="mailto:cacna2025@kashanu.ac.ir">cacna2025@kashanu.ac.ir</a>.
+                    Thank you for submitting your abstract/article. Just to make sure please resend your paper to our email address at <a href="mailto:cacna2026@kashanu.ac.ir">cacna2026@kashanu.ac.ir</a>.
                 </font>
             <?php } ?>
 
@@ -60,7 +60,7 @@ require "../_submit.php";
                 </form>
 
                 <div class="note">
-                    If you have any questions, you can contact the conference secretariat through the email address <a href="mailto:cacna2025@kashanu.ac.ir">cacna2025@kashanu.ac.ir</a>.
+                    If you have any questions, you can contact the conference secretariat through the email address <a href="mailto:cacna2026@kashanu.ac.ir">cacna2026@kashanu.ac.ir</a>.
                 </div>
             </p>
         </section>
